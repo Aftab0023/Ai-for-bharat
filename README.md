@@ -118,15 +118,15 @@ An AI-powered assistant that converts verified public and government information
 
 ## 🤝 Team
 
-[Add your team member details here]
-
-## 📄 License
-
-[Add license information]
+1.Prathamesh Patil<br>
+2.Aftab Tamboli<br>
+3.Viraj Pawar<br>
+4.Jagdish Kalane
 
 ## 📞 Contact
 
-[Add contact information]
+1. pp7209536@gmail.com<br>
+2. aftabtamboli3234@gmail.com
 
 ---
 
